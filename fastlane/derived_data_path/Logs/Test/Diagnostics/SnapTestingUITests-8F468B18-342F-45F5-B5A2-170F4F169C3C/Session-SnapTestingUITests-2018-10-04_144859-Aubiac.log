@@ -1,0 +1,1132 @@
+14:48:59.596 xcodebuild[94092:5646687] Beginning test session SnapTestingUITests-CDCB9B9E-2999-45CD-A983-1CBA561AC56F at 2018-10-04 14:48:59.595 with Xcode 9F2000 on target <DVTiPhoneSimulator: 0x7faa0d01a7e0> {
+		SimDevice: iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)
+} (11.4 (15F79))
+14:48:59.596 xcodebuild[94092:5646687] 	/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+-scheme
+SnapTestingUITests
+-project
+SnapTesting.xcodeproj
+-destination
+platform=iOS Simulator,id=73B9614C-6BF5-4564-B533-92E13173810C
+-derivedDataPath
+fastlane/derived_data_path
+-only-testing:SnapTestingUITests
+test-without-building
+14:48:59.596 xcodebuild[94092:5646687] Launching with Xcode.IDEFoundation.Launcher.PosixSpawn
+14:48:59.598 xcodebuild[94092:5646687] Test standard output and standard error is at /var/folders/pk/ht_yrh6574n5d5gnf36jy_1h0000gn/T/com.apple.dt.XCTest/IDETestRunSession-F413D658-7053-4B76-8A92-E21EC994724F/SnapTestingUITests-8F468B18-342F-45F5-B5A2-170F4F169C3C/StandardOutputAndStandardError.txt
+14:48:59.599 xcodebuild[94092:5646687] Simulator 73B9614C-6BF5-4564-B533-92E13173810C was claimed by TestSessionClaim_IDETestRunSession-F413D658-7053-4B76-8A92-E21EC994724F
+14:48:59.601 xcodebuild[94092:5646687] Updating list of devices in SimDeviceSet
+14:48:59.602 xcodebuild[94092:5646687] Adding any devices not yet represented in list for device set SimDeviceSet : /Users/sm1040808/Library/Developer/CoreSimulator/Devices
+14:48:59.603 xcodebuild[94092:5646687] Removing any devices that have been removed from device set SimDeviceSet : /Users/sm1040808/Library/Developer/CoreSimulator/Devices
+14:48:59.604 xcodebuild[94092:5646687] Updating list of devices in SimDeviceSet
+14:48:59.607 xcodebuild[94092:5646687] Adding any devices not yet represented in list for device set SimDeviceSet : /Users/sm1040808/Library/Developer/CoreSimulator/Devices
+14:48:59.607 xcodebuild[94092:5646687] Removing any devices that have been removed from device set SimDeviceSet : /Users/sm1040808/Library/Developer/CoreSimulator/Devices
+14:48:59.613 xcodebuild[94092:5646687] Launch session started.
+14:48:59.615 xcodebuild[94092:5646712] Simulator 73B9614C-6BF5-4564-B533-92E13173810C was claimed by LaunchSessionClaim_0x7faa0cb73700
+14:48:59.632 xcodebuild[94092:5646687] 73B9614C-6BF5-4564-B533-92E13173810C: Received sim device notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.632 xcodebuild[94092:5646687] 73B9614C-6BF5-4564-B533-92E13173810C: Received sim device notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.633 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.634 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.635 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+14:48:59.636 xcodebuild[94092:5646687] 73B9614C-6BF5-4564-B533-92E13173810C: Received sim device notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.636 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.637 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 0.000000, isTerminal = 1, info = (null) }";
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+14:48:59.638 xcodebuild[94092:5646687] 73B9614C-6BF5-4564-B533-92E13173810C: Received sim device notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] 73B9614C-6BF5-4564-B533-92E13173810C: Received sim device notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.638 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.639 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    notification = "availableDevices_changed";
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.640 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.641 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] /Users/sm1040808/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone SE (73B9614C-6BF5-4564-B533-92E13173810C, iOS 11.4, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+14:48:59.642 xcodebuild[94092:5646687] Setting up test runner session
+14:48:59.642 xcodebuild[94092:5646687] Test operation failure: Could not obtain the bundle identifier for Target Application '/Users/sm1040808/Developer/SM1040808/Self Study/Snaptesting/SnapTesting/fastlane/derived_data_path/Build/Products/Debug-iphonesimulator/SnapTesting.app'
+14:48:59.642 xcodebuild[94092:5646687] _finishWithError:Error Domain=IDETestOperationsObserverErrorDomain Code=4 "Could not obtain the bundle identifier for Target Application '/Users/sm1040808/Developer/SM1040808/Self Study/Snaptesting/SnapTesting/fastlane/derived_data_path/Build/Products/Debug-iphonesimulator/SnapTesting.app'" UserInfo={NSLocalizedDescription=Could not obtain the bundle identifier for Target Application '/Users/sm1040808/Developer/SM1040808/Self Study/Snaptesting/SnapTesting/fastlane/derived_data_path/Build/Products/Debug-iphonesimulator/SnapTesting.app'}

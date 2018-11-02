@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FormatVersion</key>
+	<string>1.2</string>
+	<key>RunDestination</key>
+	<dict>
+		<key>LocalComputer</key>
+		<dict>
+			<key>BusSpeedInMHz</key>
+			<integer>400</integer>
+			<key>CPUCount</key>
+			<integer>1</integer>
+			<key>CPUKind</key>
+			<string>Intel Core i7</string>
+			<key>CPUSpeedInMHz</key>
+			<integer>2600</integer>
+			<key>Identifier</key>
+			<string>C64EF5A3-05E0-5D19-B3EB-4D2F5DF9CF16</string>
+			<key>IsConcreteDevice</key>
+			<true/>
+			<key>LogicalCPUCoresPerPackage</key>
+			<integer>12</integer>
+			<key>ModelCode</key>
+			<string>MacBookPro15,1</string>
+			<key>ModelName</key>
+			<string>MacBook Pro</string>
+			<key>ModelUTI</key>
+			<string>com.apple.macbookpro-15-retina-touchid-2018</string>
+			<key>Name</key>
+			<string>My Mac</string>
+			<key>NativeArchitecture</key>
+			<string>x86_64h</string>
+			<key>OperatingSystemVersion</key>
+			<string>10.13.6</string>
+			<key>OperatingSystemVersionWithBuildNumber</key>
+			<string>10.13.6 (17G2307)</string>
+			<key>PhysicalCPUCoresPerPackage</key>
+			<integer>6</integer>
+			<key>Platform</key>
+			<dict>
+				<key>Identifier</key>
+				<string>com.apple.platform.macosx</string>
+				<key>Name</key>
+				<string>macOS</string>
+			</dict>
+			<key>RAMSizeInMegabytes</key>
+			<integer>16384</integer>
+		</dict>
+		<key>Name</key>
+		<string>iPhone 8 Plus</string>
+		<key>TargetArchitecture</key>
+		<string>x86_64</string>
+		<key>TargetDevice</key>
+		<dict>
+			<key>Identifier</key>
+			<string>8BBC0A99-E777-4096-8B37-2C7A4C214C19</string>
+			<key>IsConcreteDevice</key>
+			<true/>
+			<key>ModelCode</key>
+			<string>iPhone10,5</string>
+			<key>ModelName</key>
+			<string>iPhone 8 Plus</string>
+			<key>ModelUTI</key>
+			<string>com.apple.iphone-8-plus-2</string>
+			<key>Name</key>
+			<string>iPhone 8 Plus</string>
+			<key>NativeArchitecture</key>
+			<string>x86_64</string>
+			<key>OperatingSystemVersion</key>
+			<string>11.4</string>
+			<key>OperatingSystemVersionWithBuildNumber</key>
+			<string>11.4 (15F79)</string>
+			<key>Platform</key>
+			<dict>
+				<key>Identifier</key>
+				<string>com.apple.platform.iphonesimulator</string>
+				<key>Name</key>
+				<string>iOS Simulator</string>
+			</dict>
+		</dict>
+		<key>TargetSDK</key>
+		<dict>
+			<key>Identifier</key>
+			<string>iphonesimulator11.4</string>
+			<key>IsInternal</key>
+			<false/>
+			<key>Name</key>
+			<string>Simulator - iOS 11.4</string>
+			<key>OperatingSystemVersion</key>
+			<string>11.4</string>
+		</dict>
+	</dict>
+	<key>TestableSummaries</key>
+	<array>
+		<dict>
+			<key>DiagnosticsDirectory</key>
+			<string>SnapTestingUITests-2ED6FDAB-42B8-4F77-8DBB-B883173AFBFF</string>
+			<key>ProjectPath</key>
+			<string>SnapTesting.xcodeproj</string>
+			<key>TargetName</key>
+			<string>SnapTestingUITests</string>
+			<key>TestName</key>
+			<string>SnapTestingUITests</string>
+			<key>TestObjectClass</key>
+			<string>IDESchemeActionTestableSummary</string>
+			<key>Tests</key>
+			<array/>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+  input_format: profdata
+coverage_service: corbetura_xml
+output_directory: slather-report
+scheme: SnapTesting
+workspace: SnapTesting.xcworkspace
+xcodeproj: SnapTesting.xcodeproj
+show: true

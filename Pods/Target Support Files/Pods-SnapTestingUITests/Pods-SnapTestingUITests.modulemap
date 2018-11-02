@@ -1,0 +1,6 @@
+framework module Pods_SnapTestingUITests {
+  umbrella header "Pods-SnapTestingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
