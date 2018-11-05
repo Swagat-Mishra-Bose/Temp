@@ -41,7 +41,7 @@ final class ViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-//        print("Slathering this project.")
+        print("Slathering this project.")
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: UITableViewCell.description())
         tableView.tableFooterView = UIView(frame: .zero)
         
