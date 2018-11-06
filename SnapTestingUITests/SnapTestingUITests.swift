@@ -26,8 +26,8 @@ class SnapTestingUITests: XCTestCase {
     }
     
     func test_snap_initial() {
-        XCUIApplication().otherElements.containing(.navigationBar, identifier:"SnapTesting.View").element.swipeUp()
-        snapshot("02Home")
+//        XCUIApplication().otherElements.containing(.navigationBar, identifier:"SnapTesting.View").element.swipeUp()
+//        snapshot("02Home")
 
     }
     

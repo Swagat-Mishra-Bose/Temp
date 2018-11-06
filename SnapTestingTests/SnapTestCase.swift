@@ -7,7 +7,7 @@
 //
 
 import FBSnapshotTestCase
-@testable import SnapTesting
+//@testable import SnapTesting
 
 class SnapTestCase: FBSnapshotTestCase {
         
@@ -17,19 +17,19 @@ class SnapTestCase: FBSnapshotTestCase {
     }
     
     func testViewControllerEmpty() {
-        let vc = ViewController()
+//        let vc = ViewController()
 //        FBSnapshotVerifyView(vc.view)
     }
     
     func testViewControllerNormal() {
-        let vc = ViewController()
-        vc.state = .normal(["First", "Second", "Third"])
+//        let vc = ViewController()
+//        vc.state = .normal(["First", "Second", "Third"])
 //        FBSnapshotVerifyView(vc.view)
     }
     
     func testViewControllerNormal2() {
-        let vc = ViewController()
-        vc.state = .normal(["First", "Second", "Third", "Four", "Five", "six"])
+//        let vc = ViewController()
+//        vc.state = .normal(["First", "Second", "Third", "Four", "Five", "six"])
 //        FBSnapshotVerifyView(vc.view)
     }
 }
